@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader
+END
+CCNode+CCBRelativePositioning.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNode+CCBRelativePositioning.h
+END
+CCSpriteLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCSpriteLoader.cpp
+END
+CCScale9SpriteLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCScale9SpriteLoader.cpp
+END
+CCMenuLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCMenuLoader.h
+END
+CCNodeLoaderLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNodeLoaderLibrary.cpp
+END
+CCLayerColorLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLayerColorLoader.cpp
+END
+CCControlLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCControlLoader.cpp
+END
+CCControlButtonLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCControlButtonLoader.h
+END
+CCLayerLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLayerLoader.h
+END
+CCData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCData.cpp
+END
+CCBReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBReader.h
+END
+CCBKeyframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBKeyframe.h
+END
+CCBSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBSequence.cpp
+END
+CCBAnimationManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBAnimationManager.cpp
+END
+CCBFileLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBFileLoader.h
+END
+CCMenuItemImageLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCMenuItemImageLoader.cpp
+END
+CCBValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBValue.cpp
+END
+CCMenuItemLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCMenuItemLoader.h
+END
+CCParticleSystemQuadLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCParticleSystemQuadLoader.h
+END
+CCLabelBMFontLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLabelBMFontLoader.h
+END
+CCNodeLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNodeLoader.h
+END
+CCBSequenceProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBSequenceProperty.h
+END
+CCScrollViewLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCScrollViewLoader.h
+END
+CCLayerGradientLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLayerGradientLoader.h
+END
+CCNode+CCBRelativePositioning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNode+CCBRelativePositioning.cpp
+END
+CCLabelTTFLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLabelTTFLoader.h
+END
+CCSpriteLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCSpriteLoader.h
+END
+CCLayerLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLayerLoader.cpp
+END
+CCControlButtonLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCControlButtonLoader.cpp
+END
+CCScale9SpriteLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCScale9SpriteLoader.h
+END
+CCBReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBReader.cpp
+END
+CCBKeyframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBKeyframe.cpp
+END
+CCNodeLoaderLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNodeLoaderLibrary.h
+END
+CCLayerColorLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLayerColorLoader.h
+END
+CCBFileLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBFileLoader.cpp
+END
+CCBSelectorResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBSelectorResolver.h
+END
+CCMenuItemLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCMenuItemLoader.cpp
+END
+CCParticleSystemQuadLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCParticleSystemQuadLoader.cpp
+END
+CCLabelBMFontLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLabelBMFontLoader.cpp
+END
+CCControlLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCControlLoader.h
+END
+CCNodeLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNodeLoader.cpp
+END
+CCData.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCData.h
+END
+CCBSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBSequence.h
+END
+CCBSequenceProperty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBSequenceProperty.cpp
+END
+CCBMemberVariableAssigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBMemberVariableAssigner.h
+END
+CCScrollViewLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCScrollViewLoader.cpp
+END
+CCLayerGradientLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLayerGradientLoader.cpp
+END
+CCBAnimationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBAnimationManager.h
+END
+CCMenuItemImageLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCMenuItemImageLoader.h
+END
+CCBValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCBValue.h
+END
+CCLabelTTFLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCLabelTTFLoader.cpp
+END
+CCNodeLoaderListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/CCBReader/CCNodeLoaderListener.h
+END

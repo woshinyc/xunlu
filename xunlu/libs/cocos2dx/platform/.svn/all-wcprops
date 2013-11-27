@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform
+END
+CCEGLViewProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCEGLViewProtocol.h
+END
+CCApplicationProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCApplicationProtocol.h
+END
+CCCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCCommon.h
+END
+CCPlatformMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCPlatformMacros.h
+END
+CCFileUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCFileUtils.cpp
+END
+CCDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCDevice.h
+END
+CCFileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCFileUtils.h
+END
+CCSAXParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCSAXParser.cpp
+END
+CCImageCommonWebp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCImageCommonWebp.cpp
+END
+CCAccelerometerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCAccelerometerDelegate.h
+END
+CCThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCThread.h
+END
+CCSAXParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCSAXParser.h
+END
+platform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/platform.cpp
+END
+CCPlatformConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCPlatformConfig.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/platform.h
+END
+CCEGLViewProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCEGLViewProtocol.cpp
+END
+CCImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/platform/CCImage.h
+END

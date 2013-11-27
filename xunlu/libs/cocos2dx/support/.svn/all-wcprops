@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support
+END
+CCProfiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCProfiling.cpp
+END
+ccUTF8.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/ccUTF8.h
+END
+TransformUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/TransformUtils.h
+END
+CCPointExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCPointExtension.h
+END
+CCNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCNotificationCenter.h
+END
+CCProfiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCProfiling.h
+END
+ccUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/ccUtils.cpp
+END
+ccUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/ccUtils.h
+END
+CCVertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCVertex.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/base64.cpp
+END
+CCVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCVertex.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/base64.h
+END
+ccUTF8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/ccUTF8.cpp
+END
+TransformUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/TransformUtils.cpp
+END
+CCPointExtension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCPointExtension.cpp
+END
+CCNotificationCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/support/CCNotificationCenter.cpp
+END

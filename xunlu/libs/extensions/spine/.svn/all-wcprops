@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine
+END
+CCSkeletonAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/CCSkeletonAnimation.h
+END
+CCSkeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/CCSkeleton.h
+END
+Atlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Atlas.cpp
+END
+AtlasAttachmentLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AtlasAttachmentLoader.cpp
+END
+Skin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Skin.cpp
+END
+spine-cocos2dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/spine-cocos2dx.h
+END
+AnimationStateData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AnimationStateData.cpp
+END
+SlotData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/SlotData.cpp
+END
+Json.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Json.h
+END
+Animation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Animation.cpp
+END
+AnimationState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AnimationState.cpp
+END
+Slot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Slot.cpp
+END
+extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/extension.h
+END
+BoneData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/BoneData.h
+END
+SkeletonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/SkeletonData.h
+END
+SkeletonJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/SkeletonJson.h
+END
+AttachmentLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AttachmentLoader.h
+END
+Bone.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Bone.h
+END
+Attachment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Attachment.cpp
+END
+Skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Skeleton.h
+END
+CCSkeletonAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/CCSkeletonAnimation.cpp
+END
+CCSkeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/CCSkeleton.cpp
+END
+spine-cocos2dx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/spine-cocos2dx.cpp
+END
+RegionAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/RegionAttachment.h
+END
+Json.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Json.cpp
+END
+Atlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Atlas.h
+END
+AtlasAttachmentLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AtlasAttachmentLoader.h
+END
+Skin.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Skin.h
+END
+extension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/extension.cpp
+END
+BoneData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/BoneData.cpp
+END
+SkeletonJson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/SkeletonJson.cpp
+END
+SkeletonData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/SkeletonData.cpp
+END
+AnimationStateData.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AnimationStateData.h
+END
+AttachmentLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AttachmentLoader.cpp
+END
+SlotData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/SlotData.h
+END
+Bone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Bone.cpp
+END
+spine.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/spine.h
+END
+Skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Skeleton.cpp
+END
+Animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Animation.h
+END
+AnimationState.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/AnimationState.h
+END
+Slot.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Slot.h
+END
+RegionAttachment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/RegionAttachment.cpp
+END
+Attachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/spine/Attachment.h
+END

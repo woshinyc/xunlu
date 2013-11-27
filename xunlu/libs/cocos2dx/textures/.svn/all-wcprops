@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures
+END
+CCTexturePVR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTexturePVR.cpp
+END
+CCTextureCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTextureCache.h
+END
+CCTextureAtlas.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTextureAtlas.h
+END
+CCTexture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTexture2D.h
+END
+CCTextureETC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTextureETC.cpp
+END
+CCTexturePVR.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTexturePVR.h
+END
+CCTextureETC.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTextureETC.h
+END
+CCTextureCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTextureCache.cpp
+END
+CCTextureAtlas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTextureAtlas.cpp
+END
+CCTexture2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/textures/CCTexture2D.cpp
+END

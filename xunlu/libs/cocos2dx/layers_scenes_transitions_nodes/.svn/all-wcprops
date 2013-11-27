@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes
+END
+CCTransition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCTransition.cpp
+END
+CCLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCLayer.cpp
+END
+CCScene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCScene.cpp
+END
+CCTransition.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCTransition.h
+END
+CCTransitionProgress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.cpp
+END
+CCTransitionPageTurn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.cpp
+END
+CCLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCLayer.h
+END
+CCScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCScene.h
+END
+CCTransitionProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.h
+END
+CCTransitionPageTurn.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.h
+END

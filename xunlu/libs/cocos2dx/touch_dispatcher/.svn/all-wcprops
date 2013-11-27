@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher
+END
+CCTouchDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.cpp
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.h
+END
+CCTouchHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouchHandler.cpp
+END
+CCTouch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouch.cpp
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouchHandler.h
+END
+CCTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/cocos2dx/touch_dispatcher/CCTouch.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox
+END
+CCEditBoxImplMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplMac.mm
+END
+CCEditBoxImplTizen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplTizen.cpp
+END
+CCEditBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBox.cpp
+END
+CCEditBoxImplWin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplWin.cpp
+END
+CCEditBoxImplTizen.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplTizen.h
+END
+CCEditBoxImplIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplIOS.h
+END
+CCEditBoxImplNone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplNone.cpp
+END
+CCEditBoxImplIOS.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplIOS.mm
+END
+CCEditBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBox.h
+END
+CCEditBoxImplWin.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplWin.h
+END
+CCEditBoxImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImpl.h
+END
+CCEditBoxImplMac.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCEditBox/CCEditBoxImplMac.h
+END

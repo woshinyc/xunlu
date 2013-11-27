@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension
+END
+CCControlSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlSlider.h
+END
+CCControlStepper.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlStepper.h
+END
+CCControlPotentiometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlPotentiometer.cpp
+END
+CCControlUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlUtils.cpp
+END
+CCControlColourPicker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlColourPicker.cpp
+END
+CCControlSwitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlSwitch.cpp
+END
+CCControlPotentiometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlPotentiometer.h
+END
+CCControlExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlExtensions.h
+END
+CCControlUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlUtils.h
+END
+CCControlColourPicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlColourPicker.h
+END
+CCControlSwitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlSwitch.h
+END
+CCScale9Sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCScale9Sprite.cpp
+END
+CCInvocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCInvocation.cpp
+END
+CCControlButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlButton.cpp
+END
+CCScale9Sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCScale9Sprite.h
+END
+CCInvocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCInvocation.h
+END
+CCControlHuePicker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlHuePicker.cpp
+END
+CCControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControl.cpp
+END
+CCControlSaturationBrightnessPicker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlSaturationBrightnessPicker.cpp
+END
+CCControlButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlButton.h
+END
+CCControlSlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlSlider.cpp
+END
+CCControlStepper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlStepper.cpp
+END
+CCControlHuePicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlHuePicker.h
+END
+CCControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControl.h
+END
+CCControlSaturationBrightnessPicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/GUI/CCControlExtension/CCControlSaturationBrightnessPicker.h
+END

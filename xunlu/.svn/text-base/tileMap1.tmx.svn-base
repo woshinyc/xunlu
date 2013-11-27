@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tmw_desert_spacing" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+  <terraintypes>
+   <terrain name="新地形" tile="-1"/>
+  </terraintypes>
+  <tile id="3">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="buildable" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmttSwyAQhlEvtPbCQ3U8V7Saeq7v/3TCNDvurAssh1DS8eKfaTck/B8LS5N0rpSaV9YLEddG96rtbRU43hEOysW1rcVCvXdEkpz4WFIZtCo/BpTLxcjNM63KebrvFXtN63VJPC+RfDkDFtpnqF/qNcQQurakT8pDz1kpfs25rkvjcD1gcPmK4Uqd25phieGIWT8lvPv6g3lG+8zhqC0YI1j/msRb9e3LCed9DBzceGOWVn1zHD6WUH5aky8PY+Lg8sMxDaVlJaahxw726zEzAIf9Hvo9n+qtBg/uI4ajBsuV0TXSzQDcKeMbOofeNzwYPSItMnzvGO0i7fV+uHguB+UpyTExOjM67TXr4ycodm40LcgBLKkceIxhfCcCj5I2NfNh/Rz2miq5x1iOfaMDQXvL8WT0ZvScyWHnzyxwnqQNZjkyOhZyLJjPKRycvoTXc3FcGF0KOT7UuuZ+ZnLYNROqRZI2dG5J1Or68HFw8VQOXEthvteqV5o5Xnr/uFV/6zGu0XcFOKhK74M4R659EMdTObjntK9qXXNB7xkcJRWTj6FU4v7E9d5hbKLP6Maq7y3i2LSH/3z8ahsYWuRIqZ+WIeX5kuT9ZU0OUMo+NARL6F16iGHIZ5cxWin3+8DSeRiaIzUXugH/LkmYgKFFDskagfWAGWrOL/Bn51CHYtI1jtczzUOt3LjqG77H8XHQmkQZMBvmoTGXQt47z3dXvlwcMX3TnGkSp+1c5/n84vGn951UXB64XOTKN0Y5+yX+Pw0X447/AD3hJfA=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="50" height="50">
+  <object name="startPos" x="16" y="784"/>
+  <object name="endPos" x="1104" y="784"/>
+ </objectgroup>
+</map>

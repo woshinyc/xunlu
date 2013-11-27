@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network
+END
+HttpClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network/HttpClient.cpp
+END
+HttpClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network/HttpClient.h
+END
+HttpResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network/HttpResponse.h
+END
+WebSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network/WebSocket.cpp
+END
+WebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network/WebSocket.h
+END
+HttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/libs/extensions/network/HttpRequest.h
+END

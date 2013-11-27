@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu
+END
+Range.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/Range.png
+END
+TowerHudLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/TowerHudLayer.cpp
+END
+LoadingScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/LoadingScene.h
+END
+tileMap1.tmx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/tileMap1.tmx
+END
+TowerHudLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/TowerHudLayer.h
+END
+EnemySprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MobileTechnolog/!svn/ver/326/XCannon/xunlu/xunlu/EnemySprite.cpp
+END
+GameLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MobileTechnolog/!svn/ver/326/XCannon/xunlu/xunlu/GameLayer.cpp
+END
+images.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/images.pvr.ccz
+END
+EnemySprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/EnemySprite.h
+END
+mapLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MobileTechnolog/!svn/ver/326/XCannon/xunlu/xunlu/mapLayer.cpp
+END
+GameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/GameLayer.h
+END
+tmw_desert_spacing-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/tmw_desert_spacing-hd.png
+END
+images.plist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/images.plist
+END
+mapLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/mapLayer.h
+END
+tmw_desert_spacing.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/tmw_desert_spacing.png
+END
+CCTMXTiledMapCKKit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/CCTMXTiledMapCKKit.cpp
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/Prefix.pch
+END
+TowerSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/TowerSprite.cpp
+END
+CKAStar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MobileTechnolog/!svn/ver/326/XCannon/xunlu/xunlu/CKAStar.cpp
+END
+CCTMXTiledMapCKKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/CCTMXTiledMapCKKit.h
+END
+LoadingScene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/LoadingScene.cpp
+END
+TowerSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MobileTechnolog/!svn/ver/325/XCannon/xunlu/xunlu/TowerSprite.h
+END
+CKAStar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileTechnolog/!svn/ver/326/XCannon/xunlu/xunlu/CKAStar.h
+END
